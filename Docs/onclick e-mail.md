@@ -1,4 +1,4 @@
-- Sign in into N8N
+- Sign in into N8N.
 - Open n8n and click New Workflow.
 - Add a Schedule Trigger node as the trigger.
 - Add an Email or Gmail node.
