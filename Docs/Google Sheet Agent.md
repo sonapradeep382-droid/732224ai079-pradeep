@@ -1,0 +1,8 @@
+- Sign in into N8N
+- Open n8n and click New Workflow.
+- Add a On form node as the trigger.
+- Add google sheet node and select append row option.
+- Connect On form node to Email node.
+- Now fill the form
+- <img width="1919" height="924" alt="image" src="https://github.com/user-attachments/assets/c3fb109f-638d-4b8b-8ab6-97b2869545c8" />
+- <img width="1919" height="920" alt="image" src="https://github.com/user-attachments/assets/4db15e6b-fe85-498e-9522-e41a50c1abb4" />
