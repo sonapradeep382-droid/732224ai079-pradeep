@@ -1,0 +1,12 @@
+- Sign in into N8N
+- Open n8n and click New Workflow.
+- Add a Form node as the trigger.
+- Add an AI Agent node.
+- Connect form node to Email node.
+- Enter Google Gemini API key in AI Agent Settings.
+- Add a gmail node to AI Agent and set the details according to the details filled in the form
+- Click Activate to make the workflow live.
+- Now fill the form
+- <img width="1918" height="883" alt="image" src="https://github.com/user-attachments/assets/835e1890-37c7-4f17-b73e-673958b17800" />
+- <img width="1919" height="963" alt="image" src="https://github.com/user-attachments/assets/3537f4e2-e6c7-4ab5-9711-a8b0a3cf4d55" />
+
