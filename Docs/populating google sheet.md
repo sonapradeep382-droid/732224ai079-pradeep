@@ -1,4 +1,4 @@
-- Sign in into N8N
+- Sign in into N8N.
 - Open n8n and click New Workflow.
 - Add a Click Trigger node as the trigger.
 - Add an Get row from sheets.
