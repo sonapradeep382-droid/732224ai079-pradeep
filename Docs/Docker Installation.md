@@ -1,4 +1,4 @@
-- Download Docker Desktop from the official website.
+- Download Docker Desktop from the official website .
 - Choose your OS (Windows/Mac) and get the installer.
 - Run the downloaded installer file.
 - Accept terms and continue with default settings.
