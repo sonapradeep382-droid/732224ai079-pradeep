@@ -1,0 +1,9 @@
+- Sign in into N8N
+- Open n8n and click New Workflow.
+- Add a Chat Trigger node as the trigger.
+- Add an AI Agent node.
+- Connect Chat trigger node to Email node.
+- Enter Google Gemini API key in AI Agent Settings.
+- Click Activate to make the workflow live.
+- Now Send a Message to Chat
+- <img width="1919" height="912" alt="image" src="https://github.com/user-attachments/assets/0b2da80e-7c68-4095-a9b9-ed4290be3914" />
