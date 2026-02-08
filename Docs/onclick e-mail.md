@@ -1,0 +1,11 @@
+- Sign in into N8N
+- Open n8n and click New Workflow.
+- Add a Schedule Trigger node as the trigger.
+- Add an Email or Gmail node.
+- Connect Schedule trigger node to Email node.
+- Enter sender, receiver, subject, and message in Email settings.
+- Set up your email credentials in the node.
+- Click Activate to make the workflow live.
+- Use the Webhook URL inside your button onclick function.
+- <img width="1919" height="917" alt="image" src="https://github.com/user-attachments/assets/d844781a-96f1-49c2-8629-bda64a0d2e5b" />
+
